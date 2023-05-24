@@ -72,7 +72,7 @@ export const categories = [
     description: "This property is in a cave!",
   },
   {
-    label: "Dessert",
+    label: "Desert",
     icon: GiCactus,
     description: "This property is in the desert!",
   },
